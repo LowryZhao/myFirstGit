@@ -4,7 +4,7 @@ function addNumbers(a, b) {
 }
 
 // 
-console.log("Hello World");
+console.log("I caused a merge conflict.");
 
 // 
 console.log(addNumbers(5, 10));
